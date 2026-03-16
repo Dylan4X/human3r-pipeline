@@ -1,5 +1,12 @@
 # Human3R Stream Pipeline
 
+在进行环境配置和运行前，请先克隆 Human3R 主仓库，并进入项目目录：
+
+```bash
+git clone [https://github.com/fanegg/Human3R.git](https://github.com/fanegg/Human3R.git)
+cd Human3R
+
+
 
 ## 📁 目录结构
 
