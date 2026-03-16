@@ -73,7 +73,7 @@ CUDA_VISIBLE_DEVICES=7 python stream_server.py
 
 ```bash
 # 请将 "用户名" 替换为您实际的服务器登录名称
-ssh -N -f -L 9999:127.0.0.1:9999 用户名@10.28.0.105
+ssh -N -f -L 9999:127.0.0.1:9999 用户名@服务器
 ```
 
 ### Step 3: 启动客户端采集 (Client)
