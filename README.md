@@ -1,6 +1,5 @@
 # Human3R Stream Pipeline
 
-本项目是基于 Human3R 的实时流式推理管道（Stream Pipeline）。采用 C/S（客户端/服务端）架构设计，支持在本地进行摄像头视频流采集与可视化，并在远端 GPU 服务器上进行常驻模型的实时在线推理。
 
 ## 📁 目录结构
 
